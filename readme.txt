@@ -1,10 +1,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%% TEK292: LAB - GA %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%
-%% by: Ludwig Jacobsson | knd09lja | ludjac@gmail.com
+%% Course in Biological modelling at LTH, Lund, Sweden 
+%% By: Ludwig Jacobsson | knd09lja | ludjac@gmail.com
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%% Readme:  readme.txt %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-Hi Lars, 
 
 Still alot of things to work on and improve. It was hard to stop working and
 be satisfied. 
@@ -16,5 +14,3 @@ now.
 To run the algorithm just run the main.m file in MATLAB. Look through the code
 to find parameters for different settings. An input for GA() called options
 has some interesing aspects. 
-
-/ Ludde
